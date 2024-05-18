@@ -1,0 +1,17 @@
+{
+  "name": "lizhi-download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloadSongs.js",
+  "scripts": {
+    "start": "node downloadSongs.js",
+    "test": "node downloadSongs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "fs-extra": "^11.2.0",
+    "progress": "^2.0.3"
+  }
+}
